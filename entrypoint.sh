@@ -2,10 +2,10 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'b3034e29-8ca4-469e-9213-99cf4ef9190e'}
+UUID=${UUID:-'5b7259d3-a62d-4532-acb3-402bb2fb8b33'}
 
 # 其他Paas保活
-PAAS1_URL=https://uthgfvs54rhnbflyhf.fly.dev/
+PAAS1_URL=
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
